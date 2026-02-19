@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ Skills & Tools
-
+<div align="center">
 <table width="100%">
   <tr>
     <td align="center" width="50%">
@@ -34,6 +34,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
