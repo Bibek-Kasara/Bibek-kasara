@@ -14,7 +14,7 @@
 ### 🏆 Highlights
 
 * **🌠 Top 14 Finalist - ICT Award 2025 (Rising Star)**
-    * Recognized for innovation and impact within the Nepalese tech sector.<br>
+    * Recognized for innovation and impact within the Nepalese tech sector.<br><br>
  **🌉 P-Setu (Frontend Developer)**
         * Building a revolutionary platform that acts as a bridge between the hearing and non-hearing community through accessible tech.
 
