@@ -39,7 +39,7 @@
 ---
 
 ### 🚲 Interests & Hobbies
-
+<div align="center" >
 <table width="100%">
   <tr>
     <td width="100%">
@@ -50,6 +50,7 @@
        🎶 listening musics</br>
     </td>
 </table>
+</div>
 
 ---
 
