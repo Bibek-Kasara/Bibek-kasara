@@ -75,7 +75,7 @@
 <a href="https://discord.com/users/bibekkasara">
   <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-  <br /><br />
+  <br /><br /></br>
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
