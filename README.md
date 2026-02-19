@@ -1,58 +1,79 @@
-# 💫 About Me:
-👋 Hello! I'm Bibek Kasara, a dedicated student with a strong passion for programming, currently focusing on mastering JavaScript.<br><br>🚀 As an enthusiastic beginner, I am diving deep into the world of JavaScript, eagerly learning everything from the basics to advanced concepts like asynchronous programming and modern frameworks such as React and Node.js. My journey is just beginning, but I'm fueled by curiosity and a desire to grow every day.<br><br>💼 As a web development enthusiast, I am committed to expanding my expertise through online courses, tutorials, and hands-on personal projects..<br><br>🌱 I am always eager to connect with like-minded individuals. If you have any resources, tips to share, or would like to collaborate on JavaScript projects, feel free to reach out to me at bibek.kasara01@gmail.com.<br><br>⚡ Fun fact: When I'm not coding, you can find me enjoying a game of volleyball or football, or exploring new places on my motorbike.<br><br>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bibek-kasara) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ur_amethyst) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bibek-kasara) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bibek-Kasara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek-Kasara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://streak-stats.demolab.com?user=Bibek-kasara&theme=tokyonight&hide_border=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <br />
+  <h1>|| Laying the Bricks for a Tech-Forward Nepal ||</h1>
+  <h3>• Web Developer Enthusiast • 2025 ICT Award Rising Star Semi-Finalist</h3>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bibek-Kasara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 💫 About Me:
-👋 Hello! I'm Bibek Kasara, a dedicated student with a strong passion for programming, currently focusing on mastering JavaScript.<br><br>🚀 As an enthusiastic beginner, I am diving deep into the world of JavaScript, eagerly learning everything from the basics to advanced concepts like asynchronous programming and modern frameworks such as React and Node.js. My journey is just beginning, but I'm fueled by curiosity and a desire to grow every day.<br><br>💼 As a web development enthusiast, I am committed to expanding my expertise through online courses, tutorials, and hands-on personal projects..<br><br>🌱 I am always eager to connect with like-minded individuals. If you have any resources, tips to share, or would like to collaborate on JavaScript projects, feel free to reach out to me at bibek.kasara01@gmail.com.<br><br>⚡ Fun fact: When I'm not coding, you can find me enjoying a game of volleyball or football, or exploring new places on my motorbike.<br><br>
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bibek-kasara) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ur_amethyst) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bibek-kasara) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bibek-Kasara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek-Kasara&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💫 About Me
+👋 Hello! I'm **Bibek Kasara**, a dedicated student with a strong passion for programming, currently focusing on mastering JavaScript.<br><br>🚀 As an enthusiastic beginner, I am diving deep into the world of JavaScript, eagerly learning everything from the basics to advanced concepts like asynchronous programming and modern frameworks such as React and Node.js. My journey is just beginning, but I'm fueled by curiosity and a desire to grow every day.<br><br>💼 As a web development enthusiast, I am committed to expanding my expertise through online courses, tutorials, and hands-on personal projects..<br><br>🌱 I am always eager to connect with like-minded individuals. <br><br>⚡ **Fun fact**: When I'm not coding, you can find me enjoying reading novels, or exploring new places on my motorbikes
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bibek-Kasara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏆 Highlights
+
+* **🌠 Top 14 Finalist - ICT Award 2025 (Rising Star)**
+    * Recognized for innovation and impact within the Nepalese tech sector.
+* **🌉 P-Setu (Frontend Developer)**
+    * Building a revolutionary platform that acts as a bridge between the hearing and non-hearing community through accessible tech.
+
+---
+
+### 🛠️ Skills & Tools
+
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>CORE LANGUAGES & FRAMEWORKS</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js,c,cpp,react,tailwind,bootstrap&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <b>TOOLS & ENVIRONMENT</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚲 Interests & Hobbies
+
+<table width="100%">
+  <tr>
+    <td width="100%">
+       🏍️ Riding motorbike<br/>
+       🏔️ Travelling & Exploring nature<br/>
+       🌻 Gardening<br/>
+       📖 Reading books</br>
+       🎶 listening musics</br>
+    </td>
+</table>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Bibek-Kasara&theme=dark&hide_border=false" alt="Streak" />
+</div>
+
+---
+
+<div align="center">
+  <br />
+  <h3>🤝 Ready to Build Something Incredible?</h3>
+  <p>Let's talk tech, startups, or just share playlists.</p>
+  
+  <a href="mailto:bibek.kasara01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-3F8CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_ur_amethyst">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://discord.com/users/bibekkasara">
+  <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+  <br /><br />
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
